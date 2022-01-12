@@ -6,3 +6,5 @@
 ## Add extension
 C/C++ Extension Pack
 
+## Compilation
+/usr/bin/clang++ -g task1.cpp -o task1
